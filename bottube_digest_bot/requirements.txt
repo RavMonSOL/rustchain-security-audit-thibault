@@ -4,7 +4,7 @@
 httpx>=0.25.0
 
 # Environment variable loading
-python-dotenv>=1.0.0
+python-dotenv>=1.2.4
 
 # Testing
 pytest>=7.4.0
